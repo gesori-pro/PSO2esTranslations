@@ -122,7 +122,7 @@
 	{
 		"assign": "acshop_chipexpand_back_btn",
 		"jp_text": "戻る",
-		"tr_text": "Back"
+		"tr_text": "뒤로"
 	},
 	{
 		"assign": "acshop_driveheal_rappy_btn",
@@ -137,7 +137,7 @@
 	{
 		"assign": "acshop_driveheal_back_btn",
 		"jp_text": "戻る",
-		"tr_text": "Back"
+		"tr_text": "뒤로"
 	},
 	{
 		"assign": "acshop_dialog_obt_t_00",
@@ -647,7 +647,7 @@
 	{
 		"assign": "acshop_oprecovery_back_btn",
 		"jp_text": "戻る",
-		"tr_text": "Back"
+		"tr_text": "뒤로"
 	},
 	{
 		"assign": "acshop_oprecovery_decide_btn",
@@ -1347,7 +1347,7 @@
 	{
 		"assign": "charamake_btn_back",
 		"jp_text": "戻る",
-		"tr_text": "Back"
+		"tr_text": "뒤로"
 	},
 	{
 		"assign": "charamake_title",
@@ -3167,7 +3167,7 @@
 	{
 		"assign": "menu_dialog_button_return",
 		"jp_text": "戻る",
-		"tr_text": "Back"
+		"tr_text": "뒤로"
 	},
 	{
 		"assign": "menu_dialog_t_completed",
@@ -3857,7 +3857,7 @@
 	{
 		"assign": "myshop_dialog_b_08_back",
 		"jp_text": "戻る",
-		"tr_text": "Back"
+		"tr_text": "뒤로"
 	},
 	{
 		"assign": "myshop_dialog_t_09",
@@ -5827,7 +5827,7 @@
 	{
 		"assign": "quest_counter_button_return",
 		"jp_text": "戻る",
-		"tr_text": "Back"
+		"tr_text": "뒤로"
 	},
 	{
 		"assign": "quest_counter_window_friend",
@@ -7257,7 +7257,7 @@
 	{
 		"assign": "quest_result_button_return",
 		"jp_text": "戻る",
-		"tr_text": "Back"
+		"tr_text": "뒤로"
 	},
 	{
 		"assign": "quest_result_good_job1",
@@ -8747,7 +8747,7 @@
 	{
 		"assign": "equip_return",
 		"jp_text": "戻る",
-		"tr_text": "Back"
+		"tr_text": "뒤로"
 	},
 	{
 		"assign": "chip_window_select",
@@ -10262,7 +10262,7 @@
 	{
 		"assign": "menu_charainfo_return",
 		"jp_text": "戻る",
-		"tr_text": "Back"
+		"tr_text": "뒤로"
 	},
 	{
 		"assign": "menu_title_quest",
@@ -10837,7 +10837,7 @@
 	{
 		"assign": "menu_fulldownload_btn_03_2",
 		"jp_text": "戻る",
-		"tr_text": "Back"
+		"tr_text": "뒤로"
 	},
 	{
 		"assign": "menu_fulldownload_t_04",
@@ -22342,7 +22342,7 @@
 	{
 		"assign": "stack_chip_window_return",
 		"jp_text": "戻る",
-		"tr_text": "Back"
+		"tr_text": "뒤로"
 	},
 	{
 		"assign": "stack_chip_window_addition",

@@ -1,0 +1,707 @@
+{
+  "schema": 1,
+  "templates": [
+    {
+      "file": "ChipExplain_BoostSkillExplain.txt",
+      "field": "jp_explainLong",
+      "source": "装備したチップの 炎属性 を ⟦N0⟧％ 増加する。",
+      "translation": "장비한 칩의 염속성을 ⟦N0⟧％ 증가시킨다."
+    },
+    {
+      "file": "ChipExplain_BoostSkillExplain.txt",
+      "field": "jp_explainLong",
+      "source": "装備したチップの 氷属性 を ⟦N0⟧％ 増加する。",
+      "translation": "장비한 칩의 빙속성을 ⟦N0⟧％ 증가시킨다."
+    },
+    {
+      "file": "ChipExplain_BoostSkillExplain.txt",
+      "field": "jp_explainLong",
+      "source": "装備したチップの 雷属性 を ⟦N0⟧％ 増加する。",
+      "translation": "장비한 칩의 뇌속성을 ⟦N0⟧％ 증가시킨다."
+    },
+    {
+      "file": "ChipExplain_BoostSkillExplain.txt",
+      "field": "jp_explainLong",
+      "source": "装備したチップの 風属性 を ⟦N0⟧％ 増加する。",
+      "translation": "장비한 칩의 풍속성을 ⟦N0⟧％ 증가시킨다."
+    },
+    {
+      "file": "ChipExplain_BoostSkillExplain.txt",
+      "field": "jp_explainLong",
+      "source": "装備したチップの 光属性 を ⟦N0⟧％ 増加する。",
+      "translation": "장비한 칩의 광속성을 ⟦N0⟧％ 증가시킨다."
+    },
+    {
+      "file": "ChipExplain_BoostSkillExplain.txt",
+      "field": "jp_explainLong",
+      "source": "装備したチップの 闇属性 を ⟦N0⟧％ 増加する。",
+      "translation": "장비한 칩의 암속성을 ⟦N0⟧％ 증가시킨다."
+    },
+    {
+      "file": "ChipExplain_BoostSkillExplain.txt",
+      "field": "jp_explainLong",
+      "source": "装備したチップの HP を ⟦N0⟧％ 増加する。",
+      "translation": "장비한 칩의 HP를 ⟦N0⟧％ 증가시킨다."
+    },
+    {
+      "file": "ChipExplain_BoostSkillExplain.txt",
+      "field": "jp_explainLong",
+      "source": "装備したチップの CP を ⟦N0⟧％ 増加する。",
+      "translation": "장비한 칩의 CP를 ⟦N0⟧％ 증가시킨다."
+    },
+    {
+      "file": "ChipExplain_BoostSkillExplain.txt",
+      "field": "jp_explainLong",
+      "source": "装備したチップの 闇属性 を ⟦N0⟧％\\nCP を ⟦N1⟧％ 増加する。",
+      "translation": "장비한 칩의 암속성을 ⟦N0⟧％\\nCP를 ⟦N1⟧％ 증가시킨다."
+    },
+    {
+      "file": "ChipExplain_BoostSkillExplain.txt",
+      "field": "jp_explainLong",
+      "source": "装備したサポートチップの発動率が ⟦N0⟧％ 上昇する。",
+      "translation": "장비한 서포트 칩의 발동률이 ⟦N0⟧％ 상승한다."
+    },
+    {
+      "file": "ChipExplain_BoostSkillExplain.txt",
+      "field": "jp_explainLong",
+      "source": "装備したアクティブチップの消費ＣＰが ⟦N0⟧％ 減少する。",
+      "translation": "장비한 액티브 칩의 소비 CP가 ⟦N0⟧％ 감소한다."
+    },
+    {
+      "file": "ChipExplain_BoostSkillExplain.txt",
+      "field": "jp_explainLong",
+      "source": "装備したチップのアビリティ効果時間を ⟦N0⟧秒 延長する。",
+      "translation": "장비한 칩의 어빌리티 효과 시간을 ⟦N0⟧초 연장한다."
+    },
+    {
+      "file": "ChipExplain_BoostSkillExplain.txt",
+      "field": "jp_explainLong",
+      "source": "装備したチップの 炎属性 を ⟦N0⟧％\\nHP を ⟦N1⟧％ 増加する。",
+      "translation": "장비한 칩의 염속성을 ⟦N0⟧％\\nHP를 ⟦N1⟧％ 증가시킨다."
+    },
+    {
+      "file": "ChipExplain_BoostSkillExplain.txt",
+      "field": "jp_explainLong",
+      "source": "装備したチップの 氷属性 を ⟦N0⟧％\\nHP を ⟦N1⟧％ 増加する。",
+      "translation": "장비한 칩의 빙속성을 ⟦N0⟧％\\nHP를 ⟦N1⟧％ 증가시킨다."
+    },
+    {
+      "file": "ChipExplain_BoostSkillExplain.txt",
+      "field": "jp_explainLong",
+      "source": "装備したチップの 雷属性 を ⟦N0⟧％\\nHP を ⟦N1⟧％ 増加する。",
+      "translation": "장비한 칩의 뇌속성을 ⟦N0⟧％\\nHP를 ⟦N1⟧％ 증가시킨다."
+    },
+    {
+      "file": "ChipExplain_BoostSkillExplain.txt",
+      "field": "jp_explainLong",
+      "source": "装備したチップの 風属性 を ⟦N0⟧％\\nHP を ⟦N1⟧％ 増加する。",
+      "translation": "장비한 칩의 풍속성을 ⟦N0⟧％\\nHP를 ⟦N1⟧％ 증가시킨다."
+    },
+    {
+      "file": "ChipExplain_BoostSkillExplain.txt",
+      "field": "jp_explainLong",
+      "source": "装備したチップの 光属性 を ⟦N0⟧％\\nHP を ⟦N1⟧％ 増加する。",
+      "translation": "장비한 칩의 광속성을 ⟦N0⟧％\\nHP를 ⟦N1⟧％ 증가시킨다."
+    },
+    {
+      "file": "ChipExplain_BoostSkillExplain.txt",
+      "field": "jp_explainLong",
+      "source": "装備したチップの 闇属性 を ⟦N0⟧％\\nHP を ⟦N1⟧％ 増加する。",
+      "translation": "장비한 칩의 암속성을 ⟦N0⟧％\\nHP를 ⟦N1⟧％ 증가시킨다."
+    },
+    {
+      "file": "ChipExplain_BoostSkillExplain.txt",
+      "field": "jp_explainLong",
+      "source": "装備したチップの HP を ⟦N0⟧％\\nCP を ⟦N1⟧％ 増加する。",
+      "translation": "장비한 칩의 HP를 ⟦N0⟧％\\nCP를 ⟦N1⟧％ 증가시킨다."
+    },
+    {
+      "file": "ChipExplain_BoostSkillExplain.txt",
+      "field": "jp_explainLong",
+      "source": "装備したチップの 炎属性 を ⟦N0⟧％\\nCP を ⟦N1⟧％ 増加する。",
+      "translation": "장비한 칩의 염속성을 ⟦N0⟧％\\nCP를 ⟦N1⟧％ 증가시킨다."
+    },
+    {
+      "file": "ChipExplain_BoostSkillExplain.txt",
+      "field": "jp_explainLong",
+      "source": "装備したチップの 氷属性 を ⟦N0⟧％\\nCP を ⟦N1⟧％ 増加する。",
+      "translation": "장비한 칩의 빙속성을 ⟦N0⟧％\\nCP를 ⟦N1⟧％ 증가시킨다."
+    },
+    {
+      "file": "ChipExplain_BoostSkillExplain.txt",
+      "field": "jp_explainLong",
+      "source": "装備したチップの 雷属性 を ⟦N0⟧％\\nCP を ⟦N1⟧％ 増加する。",
+      "translation": "장비한 칩의 뇌속성을 ⟦N0⟧％\\nCP를 ⟦N1⟧％ 증가시킨다."
+    },
+    {
+      "file": "ChipExplain_BoostSkillExplain.txt",
+      "field": "jp_explainLong",
+      "source": "装備したチップの 風属性 を ⟦N0⟧％\\nCP を ⟦N1⟧％ 増加する。",
+      "translation": "장비한 칩의 풍속성을 ⟦N0⟧％\\nCP를 ⟦N1⟧％ 증가시킨다."
+    },
+    {
+      "file": "ChipExplain_BoostSkillExplain.txt",
+      "field": "jp_explainLong",
+      "source": "装備したチップの 光属性 を ⟦N0⟧％\\nCP を ⟦N1⟧％ 増加する。",
+      "translation": "장비한 칩의 광속성을 ⟦N0⟧％\\nCP를 ⟦N1⟧％ 증가시킨다."
+    },
+    {
+      "file": "ChipExplain_BoostSkillExplain.txt",
+      "field": "jp_explainLong",
+      "source": "炎属性 の上限値が ⟦N0⟧ 上昇する。",
+      "translation": "염속성의 상한치가 ⟦N0⟧ 상승한다."
+    },
+    {
+      "file": "ChipExplain_BoostSkillExplain.txt",
+      "field": "jp_explainLong",
+      "source": "氷属性 の上限値が ⟦N0⟧ 上昇する。",
+      "translation": "빙속성의 상한치가 ⟦N0⟧ 상승한다."
+    },
+    {
+      "file": "ChipExplain_BoostSkillExplain.txt",
+      "field": "jp_explainLong",
+      "source": "雷属性 の上限値が ⟦N0⟧ 上昇する。",
+      "translation": "뇌속성의 상한치가 ⟦N0⟧ 상승한다."
+    },
+    {
+      "file": "ChipExplain_BoostSkillExplain.txt",
+      "field": "jp_explainLong",
+      "source": "風属性 の上限値が ⟦N0⟧ 上昇する。",
+      "translation": "풍속성의 상한치가 ⟦N0⟧ 상승한다."
+    },
+    {
+      "file": "ChipExplain_BoostSkillExplain.txt",
+      "field": "jp_explainLong",
+      "source": "光属性 の上限値が ⟦N0⟧ 上昇する。",
+      "translation": "광속성의 상한치가 ⟦N0⟧ 상승한다."
+    },
+    {
+      "file": "ChipExplain_BoostSkillExplain.txt",
+      "field": "jp_explainLong",
+      "source": "闇属性 の上限値が ⟦N0⟧ 上昇する。",
+      "translation": "암속성의 상한치가 ⟦N0⟧ 상승한다."
+    },
+    {
+      "file": "ChipExplain_BoostSkillExplain.txt",
+      "field": "jp_explainLong",
+      "source": "炎属性 が弱点の敵に対し\\nその属性によるダメージを ⟦N0⟧％ 増加する。",
+      "translation": "염속성이 약점인 적에게\\n해당 속성으로 입히는 데미지를 ⟦N0⟧％ 증가시킨다."
+    },
+    {
+      "file": "ChipExplain_BoostSkillExplain.txt",
+      "field": "jp_explainLong",
+      "source": "氷属性 が弱点の敵に対し\\nその属性によるダメージを ⟦N0⟧％ 増加する。",
+      "translation": "빙속성이 약점인 적에게\\n해당 속성으로 입히는 데미지를 ⟦N0⟧％ 증가시킨다."
+    },
+    {
+      "file": "ChipExplain_BoostSkillExplain.txt",
+      "field": "jp_explainLong",
+      "source": "光属性 が弱点の敵に対し\\nその属性によるダメージを ⟦N0⟧％ 増加する。",
+      "translation": "광속성이 약점인 적에게\\n해당 속성으로 입히는 데미지를 ⟦N0⟧％ 증가시킨다."
+    },
+    {
+      "file": "ChipExplain_BoostSkillExplain.txt",
+      "field": "jp_explainLong",
+      "source": "闇属性 が弱点の敵に対し\\nその属性によるダメージを ⟦N0⟧％ 増加する。",
+      "translation": "암속성이 약점인 적에게\\n해당 속성으로 입히는 데미지를 ⟦N0⟧％ 증가시킨다."
+    },
+    {
+      "file": "ChipExplain_BoostSkillExplain.txt",
+      "field": "jp_explainLong",
+      "source": "風属性 が弱点の敵に対し\\nその属性によるダメージを ⟦N0⟧％ 増加する。",
+      "translation": "풍속성이 약점인 적에게\\n해당 속성으로 입히는 데미지를 ⟦N0⟧％ 증가시킨다."
+    },
+    {
+      "file": "ChipExplain_BoostSkillExplain.txt",
+      "field": "jp_explainLong",
+      "source": "雷属性 が弱点の敵に対し\\nその属性によるダメージを ⟦N0⟧％ 増加する。",
+      "translation": "뇌속성이 약점인 적에게\\n해당 속성으로 입히는 데미지를 ⟦N0⟧％ 증가시킨다."
+    },
+    {
+      "file": "ChipExplain_BoostSkillExplain.txt",
+      "field": "jp_explainLong",
+      "source": "スライド操作時 に\\nＣＰが ⟦N0⟧ 回復する。(発動確率： 小 )",
+      "translation": "슬라이드 조작 시\\nCP가 ⟦N0⟧ 회복된다. (발동 확률: 낮음)"
+    },
+    {
+      "file": "ChipExplain_BoostSkillExplain.txt",
+      "field": "jp_explainLong",
+      "source": "プレイヤーの 攻撃力全般 を ⟦N0⟧％ 増加する。",
+      "translation": "플레이어의 공격력 전반을 ⟦N0⟧％ 증가시킨다."
+    },
+    {
+      "file": "ChipExplain_BoostSkillExplain.txt",
+      "field": "jp_explainLong",
+      "source": "スライド操作時 に\\nＨＰが ⟦N0⟧％ 回復する。(発動確率： 小 )",
+      "translation": "슬라이드 조작 시\\nHP가 ⟦N0⟧％ 회복된다. (발동 확률: 낮음)"
+    },
+    {
+      "file": "ChipExplain_BoostSkillExplain.txt",
+      "field": "jp_explainLong",
+      "source": "プレイヤーの HP を ⟦N0⟧ 上昇する。\\nさらにアビリティレベルに応じて、上昇量が増える。",
+      "translation": "플레이어의 HP를 ⟦N0⟧ 상승시킨다.\\n추가로 어빌리티 레벨에 따라 상승량이 늘어난다."
+    },
+    {
+      "file": "ChipExplain_BoostSkillExplain.txt",
+      "field": "jp_explainLong",
+      "source": "定期的にＨＰを ⟦N0⟧％ 回復する。\\nアビリティレベルに応じて回復するタイミングが早くなる。",
+      "translation": "주기적으로 HP를 ⟦N0⟧％ 회복한다.\\n어빌리티 레벨에 따라 회복 주기가 짧아진다."
+    },
+    {
+      "file": "ChipExplain_BoostSkillExplain.txt",
+      "field": "jp_explainLong",
+      "source": "ＨＰの最大値の ⟦N0⟧％ 分のダメージを\\n防ぐ効果をＨＰに上乗せする。\\nさらにアビリティレベルに応じて、上乗せする値が増える。",
+      "translation": "HP 최대치의 ⟦N0⟧％에 해당하는 데미지를\\n막는 효과를 HP에 추가한다.\\n추가로 어빌리티 레벨에 따라 추가되는 수치가 늘어난다."
+    },
+    {
+      "file": "ChipExplain_BoostSkillExplain.txt",
+      "field": "jp_explainLong",
+      "source": "スライド操作時 に\\n状態異常 が回復する。(発動確率： 小＋  )\\nアビリティレベルが上昇すると発動確率が上昇する。",
+      "translation": "슬라이드 조작 시\\n상태이상이 해제된다. (발동 확률: 낮음＋)\\n어빌리티 레벨이 오르면 발동 확률이 상승한다."
+    },
+    {
+      "file": "ChipExplain_BoostSkillExplain.txt",
+      "field": "jp_explainLong",
+      "source": "受けるダメージを ⟦N0⟧％ 軽減する。\\nさらにアビリティレベルに応じて、軽減する値が増える。",
+      "translation": "받는 데미지를 ⟦N0⟧％ 줄인다.\\n추가로 어빌리티 레벨에 따라 감소량이 늘어난다."
+    },
+    {
+      "file": "ChipExplain_BoostSkillExplain.txt",
+      "field": "jp_explainLong",
+      "source": "ＨＰが ⟦N0⟧％ 以上残っている場合、\\n一度だけ戦闘不能にならない。\\nアビリティレベルが上昇すると\\n効果発動するためのＨＰの残り％が減る。",
+      "translation": "HP가 ⟦N0⟧％ 이상 남아 있을 경우\\n한 번에 한해 전투 불능을 막는다.\\n어빌리티 레벨이 오르면\\n효과 발동에 필요한 HP 잔여 비율(％)이 낮아진다."
+    },
+    {
+      "file": "ChipExplain_BoostSkillExplain.txt",
+      "field": "jp_explainLong",
+      "source": "装備した必殺技・法術のダメージ量を ⟦N0⟧％ 増加する。",
+      "translation": "장비한 필살기와 테크닉의 데미지량을 ⟦N0⟧％ 증가시킨다."
+    },
+    {
+      "file": "ChipExplain_BoostSkillExplain.txt",
+      "field": "jp_explainLong",
+      "source": "装備した必殺技・法術発動中は\\n受けるダメージを ⟦N0⟧％ 軽減する。",
+      "translation": "장비한 필살기나 테크닉이 발동 중일 때\\n받는 데미지를 ⟦N0⟧％ 줄인다."
+    },
+    {
+      "file": "ChipExplain_BoostSkillExplain.txt",
+      "field": "jp_explainLong",
+      "source": "装備したチップの消費ＣＰを ⟦N0⟧％ 軽減する。",
+      "translation": "장비한 칩의 소비 CP를 ⟦N0⟧％ 줄인다."
+    },
+    {
+      "file": "ChipExplain_BoostSkillExplain.txt",
+      "field": "jp_explainLong",
+      "source": "装備先のチップ発動後\\nジャストアタック可能なタイミングから\\n一定時間、 攻撃力全般 を ⟦N0⟧％ 増加する。",
+      "translation": "장착 대상 칩이 발동한 후\\n저스트 어택이 가능한 타이밍부터\\n일정 시간 동안 공격력 전반을 ⟦N0⟧％ 증가시킨다."
+    },
+    {
+      "file": "ChipExplain_BoostSkillExplain.txt",
+      "field": "jp_explainLong",
+      "source": "状態異常の敵に対して、装備した必殺技・法術の\\nダメージ量を ⟦N0⟧％ 増加する。",
+      "translation": "상태이상에 걸린 적을 상대로 장비한 필살기와 테크닉의\\n데미지량을 ⟦N0⟧％ 증가시킨다."
+    },
+    {
+      "file": "ChipExplain_BoostSkillExplain.txt",
+      "field": "jp_explainLong",
+      "source": "装備した必殺技・法術がヒットした時に\\n追加で ⟦N0⟧％ のダメージを与える。",
+      "translation": "장비한 필살기나 테크닉이 명중했을 때\\n추가로 ⟦N0⟧％의 데미지를 입힌다."
+    },
+    {
+      "file": "ChipExplain_BoostSkillExplain.txt",
+      "field": "jp_explainLong",
+      "source": "装備した必殺技・法術発動時に、一定時間\\nダウン・のけぞり無効となる効果を付与する。\\n（必殺技・法術終了時に効果も終了する）",
+      "translation": "장비한 필살기나 테크닉 발동 시 일정 시간 동안\\n다운과 경직을 무효화하는 효과를 부여한다.\\n(필살기나 테크닉이 끝나면 효과도 종료된다)"
+    },
+    {
+      "file": "ChipExplain_BoostSkillExplain.txt",
+      "field": "jp_explainLong",
+      "source": "ラッシュアーツのダメージ量を ⟦N0⟧％ 増加する。",
+      "translation": "러시 아츠의 데미지량을 ⟦N0⟧％ 증가시킨다."
+    },
+    {
+      "file": "ChipExplain_BoostSkillExplain.txt",
+      "field": "jp_explainLong",
+      "source": "装備先のチップ発動後\\nジャストアタック可能なタイミングから\\n一定時間、 防御力全般 を ⟦N0⟧％ 増加する。",
+      "translation": "장착 대상 칩이 발동한 후\\n저스트 어택이 가능한 타이밍부터\\n일정 시간 동안 방어력 전반을 ⟦N0⟧％ 증가시킨다."
+    },
+    {
+      "file": "UI_Weaponoid_ReleaseAbility.txt",
+      "field": "jp_text",
+      "source": "このチップのアビリティの効果時間を⟦N0⟧秒延長する。",
+      "translation": "이 칩의 어빌리티 효과 시간을 ⟦N0⟧초 연장한다."
+    },
+    {
+      "file": "UI_Weaponoid_ReleaseAbility.txt",
+      "field": "jp_text",
+      "source": "このチップのアビリティの効果の対象に\n雷属性を追加する。",
+      "translation": "이 칩의 어빌리티 효과 대상에\n뇌속성을 추가한다."
+    },
+    {
+      "file": "UI_Weaponoid_ReleaseAbility.txt",
+      "field": "jp_text",
+      "source": "このチップのコストが⟦N0⟧減少する。",
+      "translation": "이 칩의 코스트가 ⟦N0⟧ 감소한다."
+    },
+    {
+      "file": "UI_Weaponoid_ReleaseAbility.txt",
+      "field": "jp_text",
+      "source": "このチップのアビリティの効果の対象に\n光属性を追加する。",
+      "translation": "이 칩의 어빌리티 효과 대상에\n광속성을 추가한다."
+    },
+    {
+      "file": "UI_Weaponoid_ReleaseAbility.txt",
+      "field": "jp_text",
+      "source": "このチップのアビリティの発動率が⟦N0⟧％上昇する。",
+      "translation": "이 칩의 어빌리티 발동률이 ⟦N0⟧％ 상승한다."
+    },
+    {
+      "file": "UI_Weaponoid_ReleaseAbility.txt",
+      "field": "jp_text",
+      "source": "このチップのアビリティの効果の対象に\n氷属性を追加する。",
+      "translation": "이 칩의 어빌리티 효과 대상에\n빙속성을 추가한다."
+    },
+    {
+      "file": "UI_Weaponoid_ReleaseAbility.txt",
+      "field": "jp_text",
+      "source": "このチップのアビリティの効果の対象に\n風属性を追加する。",
+      "translation": "이 칩의 어빌리티 효과 대상에\n풍속성을 추가한다."
+    },
+    {
+      "file": "UI_Weaponoid_ReleaseAbility.txt",
+      "field": "jp_text",
+      "source": "このチップのアビリティの効果の対象に\n炎属性を追加する。",
+      "translation": "이 칩의 어빌리티 효과 대상에\n염속성을 추가한다."
+    },
+    {
+      "file": "UI_Weaponoid_ReleaseAbility.txt",
+      "field": "jp_text",
+      "source": "このチップのアビリティの効果の対象に\n闇属性を追加する。",
+      "translation": "이 칩의 어빌리티 효과 대상에\n암속성을 추가한다."
+    },
+    {
+      "file": "UI_Weaponoid_ReleaseAbility.txt",
+      "field": "jp_text",
+      "source": "このチップのアビリティの効果の対象に\n必殺技を追加する。",
+      "translation": "이 칩의 어빌리티 효과 대상에\n필살기를 추가한다."
+    },
+    {
+      "file": "UI_Weaponoid_ReleaseAbility.txt",
+      "field": "jp_text",
+      "source": "このチップのアビリティの効果の対象に\n法術を追加する。",
+      "translation": "이 칩의 어빌리티 효과 대상에\n테크닉을 추가한다."
+    },
+    {
+      "file": "UI_Weaponoid_ReleaseAbility.txt",
+      "field": "jp_text",
+      "source": "このチップのアビリティの効果の対象に\n風法術を追加する。",
+      "translation": "이 칩의 어빌리티 효과 대상에\n풍속성 테크닉을 추가한다."
+    },
+    {
+      "file": "UI_Weaponoid_ReleaseAbility.txt",
+      "field": "jp_text",
+      "source": "このチップの効果の発動を攻撃ヒット時に変更する。",
+      "translation": "이 칩의 효과 발동 조건을 공격 적중 시로 변경한다."
+    },
+    {
+      "file": "UI_Weaponoid_ReleaseAbility.txt",
+      "field": "jp_text",
+      "source": "闇属性が＋⟦N0⟧上昇する。",
+      "translation": "암속성이 ＋⟦N0⟧ 상승한다."
+    },
+    {
+      "file": "UI_Weaponoid_ReleaseAbility.txt",
+      "field": "jp_text",
+      "source": "炎属性が＋⟦N0⟧上昇する。",
+      "translation": "염속성이 ＋⟦N0⟧ 상승한다."
+    },
+    {
+      "file": "UI_Weaponoid_ReleaseAbility.txt",
+      "field": "jp_text",
+      "source": "このチップのアビリティの効果の対象に\n龍族を追加する。",
+      "translation": "이 칩의 어빌리티 효과 대상에\n용족을 추가한다."
+    },
+    {
+      "file": "UI_Weaponoid_ReleaseAbility.txt",
+      "field": "jp_text",
+      "source": "光属性が＋⟦N0⟧上昇する。",
+      "translation": "광속성이 ＋⟦N0⟧ 상승한다."
+    },
+    {
+      "file": "UI_Weaponoid_ReleaseAbility.txt",
+      "field": "jp_text",
+      "source": "風属性が＋⟦N0⟧上昇する。",
+      "translation": "풍속성이 ＋⟦N0⟧ 상승한다."
+    },
+    {
+      "file": "UI_Weaponoid_ReleaseAbility.txt",
+      "field": "jp_text",
+      "source": "このチップのアビリティの効果の対象に\n雷法術を追加する。",
+      "translation": "이 칩의 어빌리티 효과 대상에\n뇌속성 테크닉을 추가한다."
+    },
+    {
+      "file": "UI_Weaponoid_ReleaseAbility.txt",
+      "field": "jp_text",
+      "source": "氷属性が＋⟦N0⟧上昇する。",
+      "translation": "빙속성이 ＋⟦N0⟧ 상승한다."
+    },
+    {
+      "file": "UI_Weaponoid_ReleaseAbility.txt",
+      "field": "jp_text",
+      "source": "雷属性が＋⟦N0⟧上昇する。",
+      "translation": "뇌속성이 ＋⟦N0⟧ 상승한다."
+    },
+    {
+      "file": "UI_Weaponoid_ReleaseAbility.txt",
+      "field": "jp_text",
+      "source": "このチップのアビリティ①の効果の対象に\n光属性を追加する。",
+      "translation": "이 칩의 어빌리티① 효과 대상에\n광속성을 추가한다."
+    },
+    {
+      "file": "UI_Weaponoid_ReleaseAbility.txt",
+      "field": "jp_text",
+      "source": "このチップのアビリティ①の効果の対象に\n雷属性を追加する。",
+      "translation": "이 칩의 어빌리티① 효과 대상에\n뇌속성을 추가한다."
+    },
+    {
+      "file": "UI_Weaponoid_ReleaseAbility.txt",
+      "field": "jp_text",
+      "source": "このチップのアビリティ①の効果の対象に\n氷属性を追加する。",
+      "translation": "이 칩의 어빌리티① 효과 대상에\n빙속성을 추가한다."
+    },
+    {
+      "file": "UI_Weaponoid_ReleaseAbility.txt",
+      "field": "jp_text",
+      "source": "このチップのアビリティ②の効果の対象に\n闇属性を追加する。",
+      "translation": "이 칩의 어빌리티② 효과 대상에\n암속성을 추가한다."
+    },
+    {
+      "file": "UI_Weaponoid_ReleaseAbility.txt",
+      "field": "jp_text",
+      "source": "ＨＰが＋⟦N0⟧上昇する。",
+      "translation": "HP가 ＋⟦N0⟧ 상승한다."
+    },
+    {
+      "file": "UI_Weaponoid_ReleaseAbility.txt",
+      "field": "jp_text",
+      "source": "戦闘中、一定時間毎にＨＰが⟦N0⟧％回復する。",
+      "translation": "전투 중 일정 시간마다 HP가 ⟦N0⟧%씩 회복된다."
+    },
+    {
+      "file": "UI_Weaponoid_ReleaseAbility.txt",
+      "field": "jp_text",
+      "source": "戦闘中、一定時間毎にＣＰが⟦N0⟧回復する。",
+      "translation": "전투 중 일정 시간마다 CP가 ⟦N0⟧씩 회복된다."
+    },
+    {
+      "file": "UI_Weaponoid_ReleaseAbility.txt",
+      "field": "jp_text",
+      "source": "チップ発動時に一定確率で\n敵全体にパニックの状態異常を付与する。",
+      "translation": "칩 발동 시 일정 확률로\n모든 적에게 패닉 상태 이상을 부여한다."
+    },
+    {
+      "file": "UI_Weaponoid_ReleaseAbility.txt",
+      "field": "jp_text",
+      "source": "チップ発動時に一定確率で\n敵全体にバーンの状態異常を付与する。",
+      "translation": "칩 발동 시 일정 확률로\n모든 적에게 번 상태 이상을 부여한다."
+    },
+    {
+      "file": "UI_Weaponoid_ReleaseAbility.txt",
+      "field": "jp_text",
+      "source": "チップ発動時に一定確率で\n敵全体にミラージュの状態異常を付与する。",
+      "translation": "칩 발동 시 일정 확률로\n모든 적에게 미라주 상태 이상을 부여한다."
+    },
+    {
+      "file": "UI_Weaponoid_ReleaseAbility.txt",
+      "field": "jp_text",
+      "source": "チップ発動時に一定確率で\n敵全体にショックの状態異常を付与する。",
+      "translation": "칩 발동 시 일정 확률로\n모든 적에게 쇼크 상태 이상을 부여한다."
+    },
+    {
+      "file": "SeraphyRoom_SeraphyNote.txt",
+      "field": "jp_text",
+      "source": "『ＰＳＯ２』や『ＰＳＯ２ｅｓ』に\n登場する方々の記憶や技術が込められた\nチップのようです。",
+      "translation": "『ＰＳＯ２』와 『ＰＳＯ２ｅｓ』에\n등장하는 분들의 기억과 기술이 담긴\n칩인 것 같아요."
+    },
+    {
+      "file": "SeraphyRoom_SeraphyNote.txt",
+      "field": "jp_text",
+      "source": "装備したらどのような\n必殺技を繰り出せるのでしょう……！？\nすごく楽しみですね！",
+      "translation": "장비하면 어떤\n필살기를 쓸 수 있을까요……!?\n정말 기대되네요!"
+    },
+    {
+      "file": "SeraphyRoom_SeraphyNote.txt",
+      "field": "jp_text",
+      "source": "装備したらどのような\n法術を繰り出せるのでしょう……！？\nすごく楽しみですね！",
+      "translation": "장비하면 어떤\n테크닉을 쓸 수 있을까요……!?\n정말 기대되네요!"
+    },
+    {
+      "file": "SeraphyRoom_SeraphyNote.txt",
+      "field": "jp_text",
+      "source": "エネミーの生体を記録した\nチップのようです。",
+      "translation": "에너미의 생체 정보가 기록된\n칩인 것 같아요."
+    },
+    {
+      "file": "SeraphyRoom_SeraphyNote.txt",
+      "field": "jp_text",
+      "source": "いつも戦っているエネミーの能力が\nチップになっています！\nどんな力を持っているのか\n楽しみですね！",
+      "translation": "늘 싸우던 에너미의 능력이\n칩으로 나왔네요!\n어떤 힘을 지녔을지\n기대되네요!"
+    },
+    {
+      "file": "SeraphyRoom_SeraphyNote.txt",
+      "field": "jp_text",
+      "source": "エネミーの力さえも味方にして\n戦闘を有利に進めちゃいましょう！",
+      "translation": "에너미의 힘까지 아군으로 삼아\n유리하게 싸워 봐요!"
+    },
+    {
+      "file": "SeraphyRoom_SeraphyNote.txt",
+      "field": "jp_text",
+      "source": "このチップは、まれに発生する\n緊急クエストで入手できるようです。\n発生の際は\nぜひ挑戦してみてくださいね！",
+      "translation": "이 칩은 드물게 발생하는\n긴급 퀘스트에서 얻을 수 있대요.\n긴급 퀘스트가 발생하면\n꼭 도전해 보세요!"
+    },
+    {
+      "file": "SeraphyRoom_SeraphyNote.txt",
+      "field": "jp_text",
+      "source": "このチップはどちらかというと\nショップでの交換や\n緊急クエスト時の期間限定効果が\nおもな用途になっています。",
+      "translation": "이 칩은 주로\n상점에서 교환하거나\n긴급 퀘스트의 기간 한정 효과를\n활용하는 데 쓰여요."
+    },
+    {
+      "file": "SeraphyRoom_SeraphyNote.txt",
+      "field": "jp_text",
+      "source": "正体不明の謎のチップです。\nもし入手されましたら\nぜひ、見せてくださいね！",
+      "translation": "정체를 알 수 없는 수수께끼의 칩이에요.\n혹시 손에 넣으시면\n꼭 보여 주세요!"
+    },
+    {
+      "file": "SeraphyRoom_SeraphyNote.txt",
+      "field": "jp_text",
+      "source": "あら……\nなんだか、かわいい鳴き声が\n聞こえてくるような……",
+      "translation": "어머……\n어쩐지 귀여운 울음소리가\n들리는 것 같은데……"
+    },
+    {
+      "file": "SeraphyRoom_SeraphyNote.txt",
+      "field": "jp_text",
+      "source": "アビリティレベルが上がると\n消費ＣＰが下がったり\nチップ効果の発動率が上がったりと\nいいことがたくさんありますよ！",
+      "translation": "어빌리티 레벨이 오르면\n소비 ＣＰ가 줄거나\n칩 효과의 발동 확률이 높아지는 등\n좋은 점이 많아요!"
+    },
+    {
+      "file": "SeraphyRoom_SeraphyNote.txt",
+      "field": "jp_text",
+      "source": "必殺技を強化する効果を持つ\nチップのようです。",
+      "translation": "필살기를 강화하는 효과가 있는\n칩인 것 같아요."
+    },
+    {
+      "file": "SeraphyRoom_SeraphyNote.txt",
+      "field": "jp_text",
+      "source": "しかも、アビリティレベルを\nなんと２０まで上げることが可能です！\nアビリティレベルを上げるほど\nチップの発動率が向上しますよ。",
+      "translation": "게다가 어빌리티 레벨을\n무려 ２０까지 올릴 수 있어요!\n어빌리티 레벨이 높아질수록\n칩의 발동 확률도 높아져요."
+    },
+    {
+      "file": "SeraphyRoom_SeraphyNote.txt",
+      "field": "jp_text",
+      "source": "特定の武器を強化する効果を持つ\nチップのようです。",
+      "translation": "특정 무기를 강화하는 효과가 있는\n칩인 것 같아요."
+    },
+    {
+      "file": "SeraphyRoom_SeraphyNote.txt",
+      "field": "jp_text",
+      "source": "装備したらどのような\n必殺技を繰り出せるのでしょう…！？\nすごく楽しみですね！",
+      "translation": "장비하면 어떤\n필살기를 쓸 수 있을까요…!?\n정말 기대되네요!"
+    },
+    {
+      "file": "SeraphyRoom_SeraphyNote.txt",
+      "field": "jp_text",
+      "source": "「ＰＳＯ２ｅｓ」の垣根を超えた\nスペシャルコラボのチップのようです。",
+      "translation": "「ＰＳＯ２ｅｓ」의 경계를 넘어선\n특별한 콜라보 칩인 것 같아요."
+    },
+    {
+      "file": "SeraphyRoom_SeraphyNote.txt",
+      "field": "jp_text",
+      "source": "コラボならではのチップ効果が\nあるかもしれませんね！\n入手しましたら\nぜひ見せに来てください！",
+      "translation": "콜라보만의 칩 효과가\n있을지도 모르겠네요!\n손에 넣으시면\n꼭 보여 주러 오세요!"
+    },
+    {
+      "file": "SeraphyRoom_SeraphyNote.txt",
+      "field": "jp_text",
+      "source": "『ＰＳＯ２ｅｓ』の垣根を超えた\nスペシャルコラボのチップのようです。",
+      "translation": "『ＰＳＯ２ｅｓ』의 경계를 넘어선\n특별한 콜라보 칩인 것 같아요."
+    },
+    {
+      "file": "SeraphyRoom_SeraphyNote.txt",
+      "field": "jp_text",
+      "source": "このチップは、アビリティレベルを\n２０まで上げることが可能です！\nアビリティレベルを上げるほど\nチップの発動率が向上しますよ。",
+      "translation": "이 칩은 어빌리티 레벨을\n２０까지 올릴 수 있어요!\n어빌리티 레벨이 높아질수록\n칩의 발동 확률도 높아져요."
+    },
+    {
+      "file": "SeraphyRoom_SeraphyNote.txt",
+      "field": "jp_text",
+      "source": "『ＰＳＯ２ ＴＨＥ ＡＮＩＭＡＴＩＯＮ』に\n登場する方々が描かれた\nイラストチップのようです。",
+      "translation": "『ＰＳＯ２ ＴＨＥ ＡＮＩＭＡＴＩＯＮ』에\n등장하는 분들이 그려진\n일러스트 칩인 것 같아요."
+    },
+    {
+      "file": "SeraphyRoom_SeraphyNote.txt",
+      "field": "jp_text",
+      "source": "アビリティは\n「<%abi>」。\nエネミーに攻撃をヒットさせると\n<%wep>の必殺技チップの威力がアップ\n＆ＨＰが徐々に回復します！",
+      "translation": "어빌리티는\n「<%abi>」예요.\n에너미에게 공격을 명중시키면\n<%wep> 필살기 칩의 위력이 높아지고\nＨＰ도 서서히 회복돼요!"
+    },
+    {
+      "file": "SeraphyRoom_SeraphyNote.txt",
+      "field": "jp_text",
+      "source": "<%wep>を使うかたならば\nぜひ入手したいチップですね！",
+      "translation": "<%wep> 무기를 쓰는 분이라면\n꼭 얻고 싶은 칩이네요!"
+    },
+    {
+      "file": "SeraphyRoom_SeraphyNote.txt",
+      "field": "jp_text",
+      "source": "特定の武器を強化する\n効果を持つチップのようです。",
+      "translation": "특정 무기를 강화하는\n효과가 있는 칩인 것 같아요."
+    },
+    {
+      "file": "SeraphyRoom_SeraphyNote.txt",
+      "field": "jp_text",
+      "source": "よく使う武器と\n組み合わせることができれば\nとても有効ですよ！\nぜひ入手してくださいね！",
+      "translation": "자주 쓰는 무기와\n조합할 수 있다면\n무척 효과적이에요!\n꼭 손에 넣어 보세요!"
+    },
+    {
+      "file": "SeraphyRoom_SeraphyNote.txt",
+      "field": "jp_text",
+      "source": "真・解放した★１３チップは\n全属性の必殺技・法術の\nチップコストが減少します！",
+      "translation": "진 해방한 ★１３ 칩은\n모든 속성의 필살기와 테크닉의\n칩 코스트를 줄여 줘요!"
+    },
+    {
+      "file": "SeraphyRoom_SeraphyNote.txt",
+      "field": "jp_text",
+      "source": "★１３チップの特徴として\nこのチップを装備した時に\n<%ele>属性の必殺技・法術の\nチップコストが減少します！",
+      "translation": "★１３ 칩의 특징으로,\n이 칩을 장비하면\n<%ele>속성 필살기와 테크닉의\n칩 코스트가 줄어들어요!"
+    },
+    {
+      "file": "SeraphyRoom_SeraphyNote.txt",
+      "field": "jp_text",
+      "source": "チップ特装に必要な素材チップです。\n日替わりのデイリークエストなどで\n入手可能です。",
+      "translation": "칩 특장에 필요한 소재 칩이에요.\n날마다 바뀌는 데일리 퀘스트 등에서\n얻을 수 있어요."
+    },
+    {
+      "file": "SeraphyRoom_SeraphyNote.txt",
+      "field": "jp_text",
+      "source": "特装プラグ強化に必要な\n素材チップです。\nクエストなどで入手可能です。",
+      "translation": "특장 플러그 강화에 필요한\n소재 칩이에요.\n퀘스트 등에서 얻을 수 있어요."
+    },
+    {
+      "file": "SeraphyRoom_SeraphyNote.txt",
+      "field": "jp_text",
+      "source": "マグの性能や技術を記録した\nチップのようです。",
+      "translation": "마그의 성능과 기술이 기록된\n칩인 것 같아요."
+    },
+    {
+      "file": "SeraphyRoom_SeraphyNote.txt",
+      "field": "jp_text",
+      "source": "このチップはリンクスロット限定で\nチップパレットには装備できません。\n他のチップと組み合わせることで\n効果を発揮します！",
+      "translation": "이 칩은 링크 슬롯 전용이라\n칩 팔레트에는 장비할 수 없어요.\n다른 칩과 조합해야\n효과를 발휘해요！"
+    },
+    {
+      "file": "SeraphyRoom_SeraphyNote.txt",
+      "field": "jp_text",
+      "source": "このチップは、★９以上のチップの\nリンクスロットに装備できます。\n<%ele>属性のチップに装備すると\nリンクスキルが発生します。",
+      "translation": "이 칩은 ★９ 이상 칩의\n링크 슬롯에 장비할 수 있어요.\n<%ele>속성 칩에 장비하면\n링크 스킬이 발동해요."
+    }
+  ]
+}
